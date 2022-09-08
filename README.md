@@ -77,6 +77,6 @@ jupyter notebook
 A tab will open in your browser with Jupyter on localhost. 
 Locate the “New” tab and choose `env` from menu selection to open a notebook with the virtual environment we just created. 
 
-[choose_env.png]('./images/choose_env.png')
+[choose_env.png]('.\images\choose_env.png')
 
 Now we are ready to roll!
