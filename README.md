@@ -9,7 +9,9 @@ The goal is for you to be able to:
 - query any Subgraph data using python
 - understand the two querying methods; using raw GraphQL and Subgrounds library
 
-[What is The Graph?](./images/what_is_The_Graph.png)
+![What is The Graph?](https://github.com/tonykipkemboi/ENS_subgraph_data/blob/master/images/what_is_The_Graph.png)
+![Subgraph Query](https://github.com/tonykipkemboi/ENS_subgraph_data/blob/master/images/subgraph_query.png)
+
 ## Getting Started
 
 **Requirements:** To successfully follow this tutorial, you will need [Python 3.10](https://www.python.org/downloads/)  and [Anaconda](https://www.anaconda.com/) installed on your system.
